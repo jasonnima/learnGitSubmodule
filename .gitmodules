@@ -4,3 +4,6 @@
 [submodule "wbmatrix2"]
 	path = WBMatrix
 	url = git@github.com:Nexus-TYF/WBMatrix.git
+[submodule "wbmatrix3"]
+	path = WBMatrix
+	url = git@github.com:Nexus-TYF/WBMatrix.git
