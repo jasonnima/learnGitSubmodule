@@ -1,3 +1,6 @@
 [submodule "learngit"]
 	path = learngit
 	url = git@github.com:jasonnima/learngit.git
+[submodule "wbmatrix2"]
+	path = WBMatrix
+	url = git@github.com:Nexus-TYF/WBMatrix.git
